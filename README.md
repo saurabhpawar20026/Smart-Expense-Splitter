@@ -1,5 +1,5 @@
 # 💸 Smart Expense Splitter (Pro)
-
+![App Demo](demo.png)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen?style=for-the-badge)
