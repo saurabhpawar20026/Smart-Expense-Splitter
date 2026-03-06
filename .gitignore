@@ -1,0 +1,21 @@
+# Python bytecode (faltu cache files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Virtual environments folder)
+venv/
+env/
+.env
+
+# OS generated files (System ki temporary files)
+.DS_Store
+Thumbs.db
+
+# IDE settings (Agar aap VS Code ya PyCharm use karte ho)
+.vscode/
+.idea/
+
+# Local data (Agar aapne local test file banayi ho)
+data.json
+*.log
